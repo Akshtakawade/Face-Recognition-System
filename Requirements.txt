@@ -1,0 +1,6 @@
+streamlit==1.41.1
+face_recognition
+numpy
+Pillow
+opencv-python
+dlib
